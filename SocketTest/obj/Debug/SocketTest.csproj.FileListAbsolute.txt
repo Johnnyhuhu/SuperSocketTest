@@ -1,0 +1,16 @@
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SocketTest.exe.config
+E:\project\SuperSocketTest\SocketTest\bin\Debug\Config\log4net.config
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SocketTest.exe
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SocketTest.pdb
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.Common.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.SocketBase.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.SocketEngine.dll
+E:\project\SuperSocketTest\SocketTest\obj\Debug\SocketTest.exe
+E:\project\SuperSocketTest\SocketTest\obj\Debug\SocketTest.pdb
+E:\project\SuperSocketTest\SocketTest\bin\Debug\log4net.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\log4net.xml
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.ClientEngine.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.Facility.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.ProtoBase.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.Facility.xml
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.ProtoBase.xml
