@@ -20,11 +20,19 @@ namespace SocketTest
 
             var bootstrap = BootstrapFactory.CreateBootstrap();
 
-            if (!bootstrap.Initialize())
+            try
             {
-                Console.WriteLine("Failed to initialize!");
-                Console.ReadKey();
-                return;
+                if (!bootstrap.Initialize())
+                {
+                    Console.WriteLine("Failed to initialize!");
+                    Console.ReadKey();
+                    return;
+                }
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
             }
 
             var result = bootstrap.Start();

@@ -9,7 +9,7 @@ using SuperSocket.SocketBase.Protocol;
 
 namespace SocketTest
 {
-    public class TelnetSession : AppSession<TelnetSession>
+    public class TelnetSession : AppSession<TelnetSession, StringRequestInfo>
     {
         protected override void OnSessionStarted()
         {
@@ -18,7 +18,15 @@ namespace SocketTest
 
         protected override void HandleUnknownRequest(StringRequestInfo requestInfo)
         {
-            this.Send("Unknow request");
+            //this.Send("Unknow request");
+            switch (requestInfo.Key)
+            {
+                case "1":
+                    this.Send("you write 1");
+                    break;
+                default:
+                    break;
+            }
         }
 
         protected override void HandleException(Exception e)

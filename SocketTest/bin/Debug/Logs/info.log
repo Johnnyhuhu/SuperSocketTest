@@ -1,11 +1,1 @@
-﻿2017-08-15 08:57:36,284 [8] INFO  AppServer-28589617 - The server instance AppServer-28589617 has been started!
-2017-08-15 10:06:02,822 [9] INFO  TelnetServer - The server instance TelnetServer has been started!
-2017-08-15 10:07:34,681 [9] INFO  TelnetServer - The server instance TelnetServer has been started!
-2017-08-15 10:09:02,229 [10] INFO  TelnetServer - Session: 98d6e8bb-def5-4de4-b23a-b9ca6524138c/192.168.1.101:5655
-A new session connected!
-2017-08-15 10:10:33,266 [18] INFO  TelnetServer - Session: 98d6e8bb-def5-4de4-b23a-b9ca6524138c/192.168.1.101:5655
-This session was closed for ClientClosing!
-2017-08-15 10:11:01,174 [19] INFO  TelnetServer - Session: dcd107ad-68fc-42e7-b5ba-17e776d27203/192.168.1.101:5690
-A new session connected!
-2017-08-15 10:15:40,733 [19] INFO  TelnetServer - Session: b22c9b5d-5253-4778-9eec-a902f7252701/127.0.0.1:5797
-A new session connected!
+﻿2017-08-18 10:09:13,606 [11] INFO  TelnetServer - The server instance TelnetServer has been started!

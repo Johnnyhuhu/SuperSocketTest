@@ -1,0 +1,1246 @@
+﻿2017-08-17 10:43:46,353 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 63,741,952.00, Total Thread Count: 25
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 10:43:46
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 10:50:21,968 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 58,621,952.00, Total Thread Count: 24
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 10:50:21
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 13:49:22,153 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 63,225,856.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 13:49:22
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 13:50:22,124 Performance - ---------------------------------------------------
+CPU Usage: 0.19%, Physical Memory Usage: 66,732,032.00, Total Thread Count: 27
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 13:49:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 13:51:22,138 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 66,453,504.00, Total Thread Count: 24
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 13:49:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 13:52:22,147 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 66,306,048.00, Total Thread Count: 25
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 13:49:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 13:53:22,153 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 66,285,568.00, Total Thread Count: 24
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 13:49:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 13:54:22,174 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 66,404,352.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 13:49:22
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 13:57:08,322 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 58,671,104.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 13:57:08
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 13:59:45,397 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 60,829,696.00, Total Thread Count: 23
+AvailableWorkingThreads: 32765, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 13:57:08
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 14:01:20,396 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 58,916,864.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:01:20
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:02:22,716 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 58,466,304.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:02:22
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:03:22,650 Performance - ---------------------------------------------------
+CPU Usage: 0.17%, Physical Memory Usage: 60,198,912.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:02:22
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-08-17 14:04:22,667 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 59,908,096.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:02:22
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-08-17 14:05:22,686 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 59,621,376.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:02:22
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-08-17 14:20:51,984 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 59,183,104.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:20:51
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:21:28,772 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 58,675,200.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:21:28
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:22:28,716 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 59,572,224.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:21:28
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:22:47,859 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 58,810,368.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:22:47
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:23:47,810 Performance - ---------------------------------------------------
+CPU Usage: 0.09%, Physical Memory Usage: 60,612,608.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:22:47
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:28:39,674 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 63,295,488.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:28:39
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:42:27,274 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 62,300,160.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:42:27
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:43:27,202 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 63,037,440.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:42:27
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:44:27,217 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 63,262,720.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:42:27
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:45:27,235 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 62,734,336.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:42:27
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:46:27,247 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 62,783,488.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:42:27
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 14:47:27,260 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 62,992,384.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 14:42:27
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 15:59:18,384 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 62,521,344.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 15:59:18
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 16:00:18,337 Performance - ---------------------------------------------------
+CPU Usage: 0.17%, Physical Memory Usage: 63,279,104.00, Total Thread Count: 24
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 15:59:18
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:01:18,341 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 63,344,640.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 15:59:18
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:02:18,360 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 63,483,904.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 15:59:18
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:03:36,261 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 59,195,392.00, Total Thread Count: 24
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:03:29
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:04:36,182 Performance - ---------------------------------------------------
+CPU Usage: 0.08%, Physical Memory Usage: 59,985,920.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:03:29
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:05:36,195 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 59,641,856.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:03:29
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:06:36,213 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 59,629,568.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:03:29
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2017-08-17 16:11:45,781 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 63,881,216.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 16:12:45,756 Performance - ---------------------------------------------------
+CPU Usage: 0.10%, Physical Memory Usage: 65,282,048.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:13:45,757 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,671,744.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:14:45,772 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,684,032.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:15:45,782 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,696,320.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:16:45,812 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,811,008.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:17:45,819 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,786,432.00, Total Thread Count: 20
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:18:45,830 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,819,200.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:19:45,850 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,847,872.00, Total Thread Count: 20
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:20:45,862 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,843,776.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:21:45,868 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,794,624.00, Total Thread Count: 20
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:22:45,889 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 64,905,216.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:23:45,898 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 64,811,008.00, Total Thread Count: 20
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:24:45,908 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,839,680.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:25:45,929 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,946,176.00, Total Thread Count: 20
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:26:45,943 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 64,847,872.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:27:45,949 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 64,819,200.00, Total Thread Count: 20
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:28:45,967 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 64,991,232.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:11:45
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:32:05,228 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 65,245,184.00, Total Thread Count: 24
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:32:05
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 16:33:38,830 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 60,432,384.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:33:38
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 16:34:38,776 Performance - ---------------------------------------------------
+CPU Usage: 0.10%, Physical Memory Usage: 62,066,688.00, Total Thread Count: 24
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:33:38
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 2
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:35:50,747 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 60,403,712.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2017-08-17 16:36:53,191 Performance - ---------------------------------------------------
+CPU Usage: 0.20%, Physical Memory Usage: 62,287,872.00, Total Thread Count: 27
+AvailableWorkingThreads: 32764, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:37:53,155 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 61,726,720.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:38:53,167 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 61,800,448.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:39:53,181 Performance - ---------------------------------------------------
+CPU Usage: 0.14%, Physical Memory Usage: 62,189,568.00, Total Thread Count: 25
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:40:53,195 Performance - ---------------------------------------------------
+CPU Usage: 0.16%, Physical Memory Usage: 62,107,648.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:41:53,209 Performance - ---------------------------------------------------
+CPU Usage: 0.14%, Physical Memory Usage: 62,148,608.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:42:53,223 Performance - ---------------------------------------------------
+CPU Usage: 0.17%, Physical Memory Usage: 62,152,704.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:43:53,236 Performance - ---------------------------------------------------
+CPU Usage: 0.18%, Physical Memory Usage: 62,132,224.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:44:53,248 Performance - ---------------------------------------------------
+CPU Usage: 0.13%, Physical Memory Usage: 62,255,104.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:45:53,265 Performance - ---------------------------------------------------
+CPU Usage: 0.17%, Physical Memory Usage: 62,414,848.00, Total Thread Count: 23
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:46:53,274 Performance - ---------------------------------------------------
+CPU Usage: 0.16%, Physical Memory Usage: 62,365,696.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:47:53,289 Performance - ---------------------------------------------------
+CPU Usage: 0.19%, Physical Memory Usage: 62,365,696.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:48:53,302 Performance - ---------------------------------------------------
+CPU Usage: 0.18%, Physical Memory Usage: 62,013,440.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:49:53,317 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 62,017,536.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:50:53,330 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 62,050,304.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:51:53,345 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,895,232.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:52:53,356 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,891,136.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:53:53,372 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,928,000.00, Total Thread Count: 22
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:54:53,386 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,715,008.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:55:53,401 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,715,008.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:56:53,415 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,682,240.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:57:53,432 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 60,682,240.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:58:53,446 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,682,240.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 16:59:53,458 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 60,674,048.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 17:00:53,469 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,678,144.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 17:01:53,477 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,674,048.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 17:02:53,501 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 60,678,144.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 17:03:53,508 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 60,678,144.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 17:04:53,523 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,678,144.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 17:05:53,626 Performance - ---------------------------------------------------
+CPU Usage: 0.09%, Physical Memory Usage: 60,678,144.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 17:06:53,549 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 60,678,144.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2017-08-17 17:07:53,561 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 60,678,144.00, Total Thread Count: 21
+AvailableWorkingThreads: 32766, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 32767, MaxCompletionPortThreads: 1000
+TelnetServer ----------------------------------
+Started Time: 2017/8/17 星期四 16:35:50
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 5
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+

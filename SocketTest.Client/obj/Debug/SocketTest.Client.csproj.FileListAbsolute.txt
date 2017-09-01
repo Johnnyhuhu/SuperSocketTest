@@ -1,0 +1,16 @@
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\SocketTest.Client.exe.config
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\SocketTest.Client.exe
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\SocketTest.Client.pdb
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\SuperSocket.ClientEngine.dll
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\SuperSocket.ProtoBase.dll
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\SuperSocket.SocketBase.dll
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\SuperSocket.Common.dll
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\SuperSocket.ProtoBase.xml
+E:\project\SuperSocketTest\SocketTest.Client\obj\Debug\SocketTest.Client.exe
+E:\project\SuperSocketTest\SocketTest.Client\obj\Debug\SocketTest.Client.pdb
+E:\project\SuperSocketTest\SocketTest.Client\obj\Debug\SocketTest.Client.csprojResolveAssemblyReference.cache
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\MessagePack.dll
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\System.ValueTuple.dll
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\MessagePack.xml
+E:\project\SuperSocketTest\SocketTest.Client\bin\Debug\System.Threading.Tasks.Extensions.xml

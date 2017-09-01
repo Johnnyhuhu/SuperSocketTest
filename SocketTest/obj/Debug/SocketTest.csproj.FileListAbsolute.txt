@@ -9,8 +9,15 @@ E:\project\SuperSocketTest\SocketTest\obj\Debug\SocketTest.exe
 E:\project\SuperSocketTest\SocketTest\obj\Debug\SocketTest.pdb
 E:\project\SuperSocketTest\SocketTest\bin\Debug\log4net.dll
 E:\project\SuperSocketTest\SocketTest\bin\Debug\log4net.xml
-E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.ClientEngine.dll
 E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.Facility.dll
 E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.ProtoBase.dll
-E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.Facility.xml
 E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.ProtoBase.xml
+E:\project\SuperSocketTest\SocketTest\bin\Debug\SuperSocket.Facility.1.6.6.1.Fakes.fakesconfig
+E:\project\SuperSocketTest\SocketTest\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\MessagePack.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\System.ValueTuple.dll
+E:\project\SuperSocketTest\SocketTest\bin\Debug\MessagePack.xml
+E:\project\SuperSocketTest\SocketTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\project\SuperSocketTest\SocketTest\obj\Debug\SocketTest.csprojFakesResolveAssemblyReference.cache

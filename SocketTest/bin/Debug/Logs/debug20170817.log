@@ -1,0 +1,127 @@
+﻿2017-08-17 10:43:43,754 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 10:43:43,892 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 10:43:46,118 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 10:43:46,118 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 10:43:46,256 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 10:43:46,266 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 10:50:19,646 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 10:50:19,762 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 10:50:21,816 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 10:50:21,816 [9] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 10:50:21,872 [9] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 10:50:21,881 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 10:51:14,867 [9] DEBUG TelnetServer - Listener (0.0.0.0:2013) was stoppped
+2017-08-17 10:51:14,876 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!
+2017-08-17 13:49:19,865 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 13:49:19,940 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 13:49:19,967 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 13:49:22,012 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 13:49:22,012 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 13:49:22,075 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 13:49:22,084 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 13:57:05,947 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 13:57:06,032 [9] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 13:57:06,063 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 13:57:08,132 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 13:57:08,132 [9] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 13:57:08,219 [9] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 13:57:08,232 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 14:01:18,076 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:01:18,162 [9] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 14:01:18,192 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:01:20,244 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 14:01:20,245 [9] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 14:01:20,301 [9] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 14:01:20,310 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 14:02:20,416 [11] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:02:20,496 [11] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 14:02:20,527 [11] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:02:22,566 [11] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 14:02:22,566 [11] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 14:02:22,620 [11] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 14:02:22,630 [11] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 14:20:49,580 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:20:49,667 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 14:20:49,695 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:20:51,825 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 14:20:51,825 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 14:20:51,882 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 14:20:51,892 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 14:21:26,385 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:21:26,474 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 14:21:26,504 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:21:28,610 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 14:21:28,610 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 14:21:28,670 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 14:21:28,678 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 14:22:45,567 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:22:45,656 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 14:22:45,688 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:22:47,724 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 14:22:47,724 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 14:22:47,777 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 14:22:47,786 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 14:28:37,176 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:28:37,270 [9] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 14:28:37,303 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:28:39,494 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 14:28:39,494 [9] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 14:28:39,562 [9] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 14:28:39,573 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 14:38:10,450 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:38:10,536 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:38:44,982 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:38:45,079 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:39:06,796 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:39:06,882 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:40:32,209 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:40:32,297 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:41:02,602 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:41:02,687 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:42:22,558 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 14:42:22,668 [9] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 14:42:24,736 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 14:42:24,736 [9] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 14:42:27,171 [9] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 14:42:27,182 [9] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 15:59:15,237 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 15:59:15,391 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 15:59:17,506 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 15:59:17,506 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 15:59:18,291 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 15:59:18,301 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 16:03:21,178 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 16:03:21,281 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 16:03:21,312 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 16:03:23,505 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 16:03:23,505 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 16:03:29,708 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 16:03:31,393 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 16:11:43,444 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 16:11:43,544 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 16:11:43,576 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 16:11:45,634 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 16:11:45,635 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 16:11:45,693 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 16:11:45,703 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 16:32:02,872 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 16:32:02,966 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 16:32:02,998 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 16:32:05,081 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 16:32:05,081 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 16:32:05,141 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 16:32:05,149 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 16:33:36,425 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 16:33:36,518 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 16:33:36,552 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 16:33:38,675 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 16:33:38,675 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 16:33:38,742 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 16:33:38,752 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2017-08-17 16:35:48,236 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been created!
+2017-08-17 16:35:48,334 [10] DEBUG TelnetServer - The command Add(SocketTest.Add, SocketTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2017-08-17 16:35:48,369 [10] DEBUG DefaultBootstrap - The server instance TelnetServer has been initialized!
+2017-08-17 16:35:50,585 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2017-08-17 16:35:50,585 [10] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2017-08-17 16:35:50,651 [10] DEBUG TelnetServer - Listener (0.0.0.0:2013) was started
+2017-08-17 16:35:50,661 [10] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!

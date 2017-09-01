@@ -1,0 +1,60 @@
+﻿2017-08-17 10:43:46,259 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 10:50:21,874 [9] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 10:50:27,992 [10] INFO  TelnetServer - Session: e9b8b17d-e66a-4ef9-9ca0-7cf1ce6b8627/127.0.0.1:6088
+A new session connected!
+2017-08-17 10:51:14,868 [9] INFO  TelnetServer - The server instance TelnetServer has been stopped!
+2017-08-17 10:51:14,881 [15] INFO  TelnetServer - Session: e9b8b17d-e66a-4ef9-9ca0-7cf1ce6b8627/127.0.0.1:6088
+This session was closed for ServerShutdown!
+2017-08-17 13:49:22,077 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 13:49:28,579 [11] INFO  TelnetServer - Session: 2508dc92-6869-4192-8778-9f29709187bc/127.0.0.1:9769
+A new session connected!
+2017-08-17 13:57:08,221 [9] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 13:57:15,591 [10] INFO  TelnetServer - Session: 17444d07-e6e2-407c-9b77-eb5e015b4522/127.0.0.1:9960
+A new session connected!
+2017-08-17 14:00:00,608 [16] INFO  TelnetServer - Session: be671650-cc5c-4f15-8d76-3253400b79b7/127.0.0.1:10002
+A new session connected!
+2017-08-17 14:01:20,303 [9] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 14:01:32,286 [10] INFO  TelnetServer - Session: f3260b2d-95dc-4c64-9f0a-2220aefce722/127.0.0.1:10016
+A new session connected!
+2017-08-17 14:01:54,846 [10] INFO  TelnetServer - Session: 12570ec4-7449-46c7-a66d-18431cc5fd57/127.0.0.1:10021
+A new session connected!
+2017-08-17 14:02:22,622 [11] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 14:02:32,676 [12] INFO  TelnetServer - Session: 73ae9125-288d-4da2-96ab-5b4a84342617/127.0.0.1:10040
+A new session connected!
+2017-08-17 14:02:45,095 [12] INFO  TelnetServer - Session: cea7914a-6200-47fb-82e1-d58b625b6c24/127.0.0.1:10043
+A new session connected!
+2017-08-17 14:20:51,884 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 14:21:28,671 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 14:22:47,778 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 14:22:56,487 [11] INFO  TelnetServer - Session: df56182e-712e-4ca9-8eef-2f2e07744f18/127.0.0.1:10447
+A new session connected!
+2017-08-17 14:23:14,223 [15] INFO  TelnetServer - Session: df56182e-712e-4ca9-8eef-2f2e07744f18/127.0.0.1:10447
+This session was closed for SocketError!
+2017-08-17 14:28:39,564 [9] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 14:28:45,306 [3] INFO  TelnetServer - Session: a3e005ab-0fb9-4cbd-af5e-0df19e315728/127.0.0.1:10630
+A new session connected!
+2017-08-17 14:42:27,172 [9] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 15:59:18,292 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 15:59:37,422 [4] INFO  TelnetServer - Session: a732d8e4-02d8-49f5-bd8b-c5bfde0f7219/127.0.0.1:13537
+A new session connected!
+2017-08-17 16:03:05,352 [18] INFO  TelnetServer - Session: a732d8e4-02d8-49f5-bd8b-c5bfde0f7219/127.0.0.1:13537
+This session was closed for ClientClosing!
+2017-08-17 16:03:30,881 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 16:03:31,407 [11] INFO  TelnetServer - Session: c6e8de19-33fb-4fe4-b4a3-8074c2d6bf0b/127.0.0.1:13719
+A new session connected!
+2017-08-17 16:05:42,639 [6] INFO  TelnetServer - Session: 9f54dd8b-40ec-43c6-a2cc-046eb95b778f/127.0.0.1:13814
+A new session connected!
+2017-08-17 16:11:45,694 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 16:11:46,825 [4] INFO  TelnetServer - Session: 850ceb16-0f44-422c-be47-901b9f11fa3a/127.0.0.1:14119
+A new session connected!
+2017-08-17 16:32:05,142 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 16:32:11,848 [4] INFO  TelnetServer - Session: 228e06cd-9d10-4c09-882f-96907c4710f6/127.0.0.1:14949
+A new session connected!
+2017-08-17 16:33:38,743 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 16:33:48,886 [11] INFO  TelnetServer - Session: 1f96a492-f382-4fc4-b037-ff28cd5aa1f0/127.0.0.1:14963
+A new session connected!
+2017-08-17 16:34:38,899 [18] INFO  TelnetServer - Session: c5c06d73-8f37-467d-a2da-d72af8ced6a3/127.0.0.1:14990
+A new session connected!
+2017-08-17 16:35:50,653 [10] INFO  TelnetServer - The server instance TelnetServer has been started!
+2017-08-17 16:35:56,606 [11] INFO  TelnetServer - Session: f5ab00af-da17-4947-9a87-cbbc4418bce6/127.0.0.1:15018
+A new session connected!
